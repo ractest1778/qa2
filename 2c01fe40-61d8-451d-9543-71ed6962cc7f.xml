@@ -1,7 +1,7 @@
 <joblist>
   <job>
     <defaultTab>nodes</defaultTab>
-    <description>hello</description>
+    <description>user</description>
     <executionEnabled>true</executionEnabled>
     <id>2c01fe40-61d8-451d-9543-71ed6962cc7f</id>
     <loglevel>INFO</loglevel>
